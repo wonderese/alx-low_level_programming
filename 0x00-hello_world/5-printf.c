@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - this is a prinf function
+ * main - printf
  * Return: 0
  */
 int main(void)
