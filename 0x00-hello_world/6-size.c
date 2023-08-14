@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - this sdesribes the main function of the code
+ * main - print
  * Return: 0
- 	*/
+ */
 int main(void)
 {
 	char a;
