@@ -4,7 +4,6 @@
  *
  * Return: Always 0.
  */
-
 int main(void)
 {
 	char letter;
@@ -20,4 +19,3 @@ int main(void)
 
 	return (0);
 }
-
