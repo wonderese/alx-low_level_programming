@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * main - function
+ * main - print _putcher
+ * followed by a new line
  * Return: 0
  */
 
