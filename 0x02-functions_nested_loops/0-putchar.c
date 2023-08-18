@@ -1,10 +1,12 @@
 #include "main.h"
 
 /**
- * main - print _putchar
- * followed by a new line
- * Return: 0
- */
+ * main - Entry point
+ *
+ * Description: prints _patchar prototype
+ *
+ * Return: Always 0 (success)
+*/
 
 int main(void)
 {
