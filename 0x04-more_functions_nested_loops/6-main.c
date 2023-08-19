@@ -7,9 +7,10 @@
  */
 int main(void)
 {
-	print_line(0);
-	print_line(2);
-	print_line(10);
-	print_line(-4);
+	print_sign(0);
+	print_sign(2);
+	print_sign(10);
+	print_sign(-4);
 	return (0);
 }
+
