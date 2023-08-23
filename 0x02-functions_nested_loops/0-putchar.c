@@ -2,11 +2,9 @@
 
 /**
  * main - Entry point
- *
  * Description: prints _patchar prototype
- *
  * Return: Always 0 (success)
-*/
+ */
 
 int main(void)
 {
