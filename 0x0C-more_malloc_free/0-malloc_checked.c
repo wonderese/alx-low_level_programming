@@ -1,5 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
+#include <stdlib.h>
+#include <limits.h>
 
 /**
  * malloc_checked - functions that allocates memory using melloc
